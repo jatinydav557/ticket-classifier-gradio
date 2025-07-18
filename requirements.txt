@@ -4,3 +4,4 @@ ipykernel
 scikit-learn
 textblob
 numpy
+gradio
