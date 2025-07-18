@@ -1,0 +1,6 @@
+pandas
+xlrd
+ipykernel
+scikit-learn
+textblob
+numpy
